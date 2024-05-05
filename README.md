@@ -35,13 +35,13 @@ To install **SCEO**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/sceo.git
+sudo git clone https://github.com/ABDUL-REHMAN345/sceo-.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/sceo.git
+git clone https://github.com/ABDUL-REHMAN345/sceo-.git
 ```
 
 ### Contact
